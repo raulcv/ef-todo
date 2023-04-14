@@ -1,6 +1,6 @@
 ## Entity Framework API
 
-Using .NET C# and Enity Framework ORM with Postgres Data base. Used some Nuget libraries [![NuGet](https://img.shields.io/badge/nuget-0077B5?style=for-the-badge&logo=nuget&logoColor=black)](https://www.nuget.org/) Packages/Libraries
+Using .NET C# and Enity Framework ORM with Postgres Data base. Used some [![NuGet](https://img.shields.io/badge/nuget-0077B5?style=for-the-badge&logo=nuget&logoColor=black)](https://www.nuget.org/) Packages/Libraries
 
 ------------
 ###### Run this project on your local machine
